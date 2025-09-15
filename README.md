@@ -7,7 +7,7 @@
 <!-- Badges / Quick Links -->
 <p align="left">
   <a href="https://www.linkedin.com/in/n-r-pratiksha22" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-Karthik K-blue?style=for-the-badge&logo=linkedin" />
+    <img src="https://img.shields.io/badge/LinkedIn-N R Pratiksha-blue?style=for-the-badge&logo=linkedin" />
   </a>
   
 </p>
