@@ -19,13 +19,14 @@
 - ⚙ Exploring areas like *Building ML models, **Flask Web Apps, **EDA* and *DSA*.
 - 🧠 Passionate about *AI-driven automation, **data analytics, and **innovative software projects*.
 - 🤝 Open to collaborating on *Python, SQL, Machine Learning, and **Computer Vision* projects.
-- 📫 Reach me at: [karthikk1162@gmail.com](mailto:karthikk1162@gmail.com)
+- 📫 Reach me at: [nrpratikshanayak@gmail.com](mailto:nrpratikshanayak@gmail.com)
 
 ## 🚀 Languages and Tools:
 
 <p align="left">
   <!-- Programming Languages -->
-  <img src="https://skillicons.dev/icons?i=python,cpp,java,javascript" />
+  <img src="https://skillicons.dev/icons?i=python,java,javascript" />
+  
   
   <!-- Web Development -->
   <img src="https://skillicons.dev/icons?i=html,css,flask,django,fastapi" />
