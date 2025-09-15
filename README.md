@@ -58,13 +58,18 @@
 
 ## 🚀 Major Project  
 
-### 📚 AI-Driven Library Visitor Log  
-A Flask + SQLite-based system designed to automate and digitize student registration in libraries.  
-Key Features:  
-- OCR-based ID card reader (Tesseract + OpenCV).  
-- Automatic extraction of Name, Reg No, and Department.  
-- Local database (SQLite) for storing visitor logs.  
-- Dashboard to display recent entries and manage data.  
+### 📚 Customer Churn Prediction 
+  
+A Python backend system with Flask APIs designed to predict customer churn.
+Key Features:
+
+Built and deployed Python backend modules with Flask APIs for churn prediction.
+
+Processed over 50K records, applied EDA & feature engineering, and automated workflows.
+
+Managed MySQL database operations with logging and monitoring for debugging and production support.
+
+
 
 🔗 [View Repository](https://github.com/karthik-k11/AI-Driven-Library-Visitor-Log)  
 
