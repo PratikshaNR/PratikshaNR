@@ -73,6 +73,17 @@ Managed MySQL database operations with logging and monitoring for debugging and 
 
 🔗 [View Repository](https://github.com/karthik-k11/AI-Driven-Library-Visitor-Log)  
 
+
+### 📚 Crypto Price Tracker & Trend Analyzer
+Key Features:
+
+Automated real-time data pipelines in Python for Bitcoin collection, processing, and monitoring.
+
+Designed trend analysis dashboards using Pandas and Matplotlib.
+
+Integrated Python workflows with Google Sheets API for live reporting and seamless backend communication.
+
+
 ---
 
 ## 📂 Other Projects  
