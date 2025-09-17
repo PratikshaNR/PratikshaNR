@@ -11,12 +11,7 @@
   </a>
   
 </p>
-<p align="left">
-  <a href="file:///C:/Users/Sudeep/OneDrive/Documents/Projects/Protfolio%20-%20Pratiksha/Protfolio/index.html" target="_blank">
-    <img src="https://img.shields.io/badge/Github-N R Pratiksha-green?style=for-the-badge&logo=linkedin" />
-  </a>
-  
-</p>
+
 
 ## 🙋‍♂ About Me:
 
